@@ -3,7 +3,7 @@
 ---
 
 ## List Manipulation Script
-#### This Python script demonstrates basic list operations including:
+#### This Python script demonstrates basic list operations, including:
 
 Creating an empty list
 
@@ -41,6 +41,6 @@ Finds and prints the index of the value 30 in the list.
 ### Usage
 Run the script with Python 3:
 
-python list_manipulation.py
+python week2Assignment.py
 
 You will see the index of the value 30 printed to the console.
